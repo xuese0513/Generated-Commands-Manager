@@ -1,0 +1,1 @@
+setblock ~ ~ ~-1 chain_command_block[facing=north]

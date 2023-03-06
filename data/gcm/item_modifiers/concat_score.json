@@ -1,0 +1,8 @@
+[
+    {
+        "function": "minecraft:set_name",
+        "entity": "this",
+        "name": ["           ",{"nbt":"str","storage": "gcm"},{"score":{"objective": "var", "name": "$cmd.score"}}]
+    }
+]
+  

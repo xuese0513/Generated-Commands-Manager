@@ -1,0 +1,8 @@
+[
+    {
+        "function": "minecraft:set_name",
+        "entity": "this",
+        "name": ["data modify storage gcm execute.once append string block ~-1 ~ ~1 LastOutput 100 ",{"score":{"objective": "var", "name": "$str.length"}}]
+    }
+]
+  
