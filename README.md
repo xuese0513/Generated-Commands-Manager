@@ -17,3 +17,10 @@
 ---
 
 # 操作方式
+
+## 自訂組合方式
+
+如要自訂生成指令的字串排列方式，可以自行創立一個item_modifiers生成字串，
+出於效能考量，請確保前面會留11個dummy字元 (如同在concat_score.json中前面的11個空格字元)
+
+> 寫法可以參考範例與`gcm:operation/push/once/score`的方式
