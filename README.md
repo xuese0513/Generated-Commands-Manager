@@ -22,6 +22,6 @@
 
 如要自訂生成指令的字串排列方式，可以自行創立一個item_modifiers生成字串
 
-※ 基於效能考量，請**確保**前面會留11個dummy字元，否則會產生拼接錯誤的情形 (如同在concat_score.json中前面的11個空格字元)
+※ 基於效能考量，請**「確保」**前面會留11個dummy字元，否則會產生拼接錯誤的情形 (如同在concat_score.json中前面的11個空格字元)
 
 > 寫法可以參考範例與`gcm:operation/push/once/score`的方式
