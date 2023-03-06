@@ -11,7 +11,7 @@
 2. 輸入指令 `/reload` -> `/function _gcm_:setup`
 3. 執行範例 `/function gcm:examples/multicase`
 
-- 若需卸載此datapack，請執行 `/function _gcm_:uninstall` <font color="red">(!) 記分板var並不會被移除</font>
+- 若需卸載此datapack，請執行 `/function _gcm_:uninstall` (!) 記分板var並不會被移除
 - 執行過程中若有發生任何錯誤，請執行 `/function _gcm_:reset` 並等待一秒重置
 
 ---
