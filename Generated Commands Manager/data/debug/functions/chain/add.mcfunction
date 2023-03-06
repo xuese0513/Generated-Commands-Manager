@@ -1,0 +1,2 @@
+setblock ~1 ~ ~ minecraft:chain_command_block[facing=east]{auto:1,Command:'execute as @a run tellraw @s ["add: ",{"score":{"objective": "timer","name": "@s"}}]'}
+execute as @a run tellraw @s [{"score":{"objective": "timer","name": "@s"}}]
