@@ -18,4 +18,6 @@
 
 # 操作方式
 
-1. 
+目前提供以下快速生成字串的function：
+`gcm:operation/push/once/strcat/score`
+`gcm:operation/push/once/strcat/string`
