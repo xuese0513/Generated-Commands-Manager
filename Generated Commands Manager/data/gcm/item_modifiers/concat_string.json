@@ -2,7 +2,7 @@
     {
         "function": "minecraft:set_name",
         "entity": "this",
-        "name": ["           ",{"nbt":"str","storage": "gcm"},{"nbt":"str2","storage": "gcm"}]
+        "name": [{"nbt":"str","storage": "data"},{"nbt":"str2","storage": "data"}]
     }
 ]
   

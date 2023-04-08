@@ -1,0 +1,7 @@
+[
+    {
+        "function": "minecraft:set_name",
+        "entity": "this",
+        "name": [{"nbt":"str","storage": "data"},{"score":{"objective": "var", "name": "$int"}},".",{"nbt":"str2","storage": "data"},{"score":{"objective": "var", "name": "$decimal"}}]
+    }
+]
