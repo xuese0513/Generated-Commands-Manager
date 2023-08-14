@@ -1,8 +1,8 @@
 # Generated Commands Manager v0.2
-(No longer maintain)
+
  
 - **Author:** 雪色(XueSe)
-- **Version:** Java Edition - 1.19.4
+- **Version:** Java Edition - 1.19.4 (No longer maintain)
 
 ---
 
