@@ -2,6 +2,7 @@
  
 - **Author:** 雪色(XueSe)
 - **Version:** Java Edition - 1.19.4
+- (No longer maintain)
 
 ---
 
