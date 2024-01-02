@@ -3,7 +3,7 @@
  
 - **Author:** 雪色(XueSe)
 - **Version:** Java Edition - 1.19.4
-- 由於1.20.2更新macro，此資料包已不再更新
+- 由於1.20.2更新macro，此資料包不再更新
 
 ---
 
